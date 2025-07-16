@@ -30,8 +30,13 @@ nav a:hover {
 }
 
 /* Titres principaux */
-h1, h2, h3, h4 {
+h1, h3, h4 {
   color: #191d38;
+  font-family: "Segoe UI", sans-serif;
+  font-weight: 700;
+}
+h2 {
+  color: #f9f9f9;
   font-family: "Segoe UI", sans-serif;
   font-weight: 700;
 }
