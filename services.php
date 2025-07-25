@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +14,7 @@
     <div class="service-card">
       <span class="service-emoji">🧑‍💻</span>
       <h3>Développement web</h3>
-      <p>Sites web professionnels, vitrines et e-commerce, adaptés à vos besoins.</p>
+      <p>Sites web professionnels, vitrines de e-commerce, adaptés à vos besoins.</p>
     </div>
     <div class="service-card">
       <span class="service-emoji">📱</span>

@@ -8,4 +8,3 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
   echo "<p>Merci $nom ! Votre message a bien été envoyé.</p>";
   echo "<p><a href='index.php'>Retour à l’accueil</a></p>";
 }
-?>
